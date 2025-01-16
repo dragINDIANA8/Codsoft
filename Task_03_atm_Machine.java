@@ -1,7 +1,7 @@
 import java.util.Scanner;
  class ATM{
      int balance=0;
-     int pin=123; //default pin
+     int pin=123; 
 
      public void checkpin(){
         System.out.println("\n *** ATM INTERFACE MADE BY SHUBHRANSHU SHEKHAR DAS *** ");
